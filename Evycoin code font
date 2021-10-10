@@ -1,6 +1,11 @@
-   Name    (Evy coin) 
-    {by:Mathdark.  
+   Name      (EVY COIN   
+ {  
+              "Based": "blockchain",
   { 
+
+"Linked to lithium ion reserves, 
+and hydrogen production 
+for fuel",
 
 {
   "name": "evycoin",
@@ -8,7 +13,7 @@
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
-    "@types/babel-types": {
+    "@types/babel-types": {evy
       "version": "7.0.2",
       "resolved": "https://registry.npmjs.org/@types/babel-types/-/babel-types-7.0.2.tgz",
       "integrity": "sha512-ylggu8DwwxT6mk3jVoJeohWAePWMNWEYm06MSoJ19kwp3hT9eY2Z4NNZn3oevzgFmClgNQ2GQF500hPDvNsGHg=="
@@ -51,9 +56,10 @@
       "requires": {
         "babel-runtime": "6.26.0",
         "esutils": "2.0.2",
-        "lodash": "4.17.10",
+        "lodasfuel "4.17.10",
         "to-fast-properties": "1.0.3"
-      }
+    
+  }"name":"Libriana" 
     },
     "babylon": {
       "version": "6.18.0",

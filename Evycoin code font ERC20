@@ -4,9 +4,9 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------------------------
 // Sample fixed supply token contract/
 //
-// Symbol        : EVY
-// Name          : EVY Token
-// Total supply  : 1000000000000
+// Symbol        : HYDR
+// Name          : HYDRO Token
+// Total supply  : 1000000000
 // Decimals      : 2
 // Owner Account : 0xE6c34a300020bC16b0Cea135f1e9F62B8C3d3187
 //

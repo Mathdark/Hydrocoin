@@ -1,1 +1,1 @@
-# evycoin
+# Hydrocoin

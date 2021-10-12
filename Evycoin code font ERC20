@@ -6,13 +6,13 @@ pragma solidity ^0.4.24;
 //
 // Symbol        : HYDR
 // Name          : HYDRO Token
-// Total supply  : 1000000000
+// Total supply  : 100000000000
 // Decimals      : 2
 // Owner Account : 0xE6c34a300020bC16b0Cea135f1e9F62B8C3d3187
 //
 // Enjoy.
 //
-// (c) by Matheus Cândido Cortes. For more information, MIT LICENCE.
+// (c) by Mathdark. For more information, MIT LICENCE.
 // ----------------------------------------------------------------------------
 // Lib: Safe Math
 // ----------------------------------------------------------------------------

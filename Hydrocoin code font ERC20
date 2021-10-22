@@ -4,15 +4,15 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------------------------
 // Sample fixed supply token contract/
 //
-// Symbol        : HYDR
-// Name          : HYDRO Token
-// Total supply  : 100000000000
+// Symbol        : HYDRLITHIUM
+// Name          : HYTH Token
+// Total supply  : 200000000
 // Decimals      : 2
 // Owner Account : 0xE6c34a300020bC16b0Cea135f1e9F62B8C3d3187
 //
 // Enjoy.
 //
-// (c) by Mathdark. For more information, MIT LICENCE.
+// (c) by Matheus Candido cortes. For more information, MIT LICENCE.
 // ----------------------------------------------------------------------------
 // Lib: Safe Math
 // ----------------------------------------------------------------------------

@@ -83,8 +83,8 @@ contract EVYToken is ERC20Interface, SafeMath {
     // Constructor
     // ------------------------------------------------------------------------
     constructor() public {
-        symbol = "EVY";
-        name = "EVY Token";
+        symbol = "HYLTH";
+        name = "HYDRO LITHIUM Token";
         decimals = 2;
         _totalSupply = 1000000000000;
         balances[0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe] = _totalSupply;
@@ -189,8 +189,8 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------
 // Sample token contract
 //
-// Symbol        : {{EVY}}
-// Name          : {{EVY COIN}}
+// Symbol        : {{HYLTH}}
+// Name          : {{HYDROLITHIUM COIN}}
 // Total supply  : {{100000000000000}}
 // Decimals      : {{2}}
 // Owner Account : {{Owner Account}}
@@ -257,7 +257,7 @@ contract ApproveAndCallFallBack {
 /**
 ERC20 Token, with the addition of symbol, name and decimals and assisted token transfers
 */
-contract {{EVY}}Token is ERC20Interface, SafeMath {
+contract {{HYLTH}}Token is ERC20Interface, SafeMath {
     string public symbol;
     string public  name;
     uint8 public decimals;
@@ -271,8 +271,8 @@ contract {{EVY}}Token is ERC20Interface, SafeMath {
     // Constructor
     // ------------------------------------------------------------------------
     constructor() public {
-        symbol = "{{EVY}}";
-        name = "{{EVY COIN}}";
+        symbol = "{{HYLTH}}";
+        name = "{{HYDROLITHIUM COIN}}";
         decimals = {{2}};
         _totalSupply = {{10000000000000}};
         balances[{{Owner Account}}] = _totalSupply;
